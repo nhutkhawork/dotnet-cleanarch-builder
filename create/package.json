@@ -1,0 +1,13 @@
+{
+  "name": "dotnet-cleanarch-builder",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Generate a new .NET solution by cloning a template folder and swapping the project prefix/namespace.",
+  "bin": {
+    "create": "bin/create.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "license": "MIT"
+}
