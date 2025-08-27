@@ -81,4 +81,4 @@ The `Temp.Infrastructure` is a **Class Library** that provides implementations f
 
 ## License
 
-MIT (see `LICENSE`).
+MIT.
